@@ -9,3 +9,9 @@ Indonesia
 Francia
 Polonia
 España
+
+# Africa
+
+Marruecos
+Egipto
+Túnez

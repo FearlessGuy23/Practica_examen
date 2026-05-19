@@ -9,3 +9,9 @@ Islamabad
 Paris
 Madrid 
 Valencia
+
+# Africa
+
+El Cairo
+Ciudad del Cabo
+Rabat
