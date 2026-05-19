@@ -15,3 +15,8 @@ España
 Marruecos
 Egipto
 Túnez
+# America
+
+Canada
+Mexico
+Peru

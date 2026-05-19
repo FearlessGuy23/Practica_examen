@@ -15,3 +15,8 @@ Valencia
 El Cairo
 Ciudad del Cabo
 Rabat
+# America 
+
+Chicago
+Ciudad de Mexico
+Mar de Plata
